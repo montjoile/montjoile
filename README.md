@@ -1,5 +1,5 @@
 
-<img  alt="banner" src="https://github.com/montjoile/montjoile/blob/main/banner.jpg" />
+<!--img  alt="banner" src="https://github.com/montjoile/montjoile/blob/main/banner.jpg" />-->
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hola!
 
@@ -21,7 +21,7 @@ My name is Sara, I’m a data scientist living in Guatemala. I’m a Pythonista 
 To know more about me:
 
 * Have a look at my [📃 resume](https://www.sara-codes.com/pdf/CV.pdf)
-* View my personal [🌐 blog site](https://www.sara-codes.com)
+* Go to my personal [🌐 website](https://www.sara-codes.com)
 
 &nbsp;
 
