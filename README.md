@@ -20,8 +20,8 @@ My name is Sara, I’m a data scientist living in Guatemala. I’m a Pythonista 
 
 To know more about me:
 
-* Have a look at my [📃 resume](https://www.sara-codes.com/pdf/CV.pdf)
-* Go to my personal [🌐 website](https://www.sara-codes.com)
+* Have a look at my [📃 resume](https://montjoile.github.io/pdf/CV.pdf)
+* Go to my personal [🌐 website](https://montjoile.github.io)
 
 &nbsp;
 
