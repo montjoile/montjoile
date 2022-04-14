@@ -1,10 +1,10 @@
 
 <!--img  alt="banner" src="https://github.com/montjoile/montjoile/blob/main/banner.jpg" />-->
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hola!
+### <img alt="Welcome!" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hola!
 
 
-My name is Sara, I’m a data scientist living in Guatemala. I’m a Pythonista and a machine learning enthusiast. Besides researching and coding, I also love cooking, baking, and doing random unproductive things such as staring at my growing tomatoes 😅
+My name is Sara, I’m a pythonista and machine learning enthusiast. Besides researching and coding, I also love cooking, baking, and doing random unproductive things such as staring at my growing tomatoes 😅
 
 <img width="55%" align="right" alt="Github" src="https://github.com/montjoile/montjoile/blob/main/image.svg" />
 
@@ -36,6 +36,6 @@ You can also find me on:
 
 Join our communities 😊
 
-- 🐍 [PyLadies Guatemala City](https://twitter.com/pyladiesgtcity)
 - 👩‍💻 [Women in Data Guatemala City](https://www.womenindata.org)
+- 🐍 [PyLadies Guatemala City](https://twitter.com/pyladiesgtcity)
 - 📚 [Papers we Love Guatemala](https://paperswelove.org)
